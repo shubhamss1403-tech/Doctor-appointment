@@ -4,7 +4,7 @@ import { AppContext } from '../Context/Appcontext'
 import { useParams } from 'react-router-dom';
 
 import { assets as frontassets } from '../assets/assets_frontend/assets'
-import Relateddoctors from '../Components/Relateddoctors';
+import Relateddoctors from '../Components/RelatedDoctors';
 
 
 function Appointment() {
