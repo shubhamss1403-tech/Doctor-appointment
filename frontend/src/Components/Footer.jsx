@@ -8,11 +8,11 @@ function Footer() {
         {/*  left-side */}
         <div>
             <img  className="mb-5 w-40"src={frontassets.logo} alt=''></img>
-            <p className='w-full md:w-2/3  text-gray-600  leading-6'>Lorem Ipsum  is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-        </div>
-
+            <p className='w-full md:w-2/3  text-gray-600  leading-6'>
+            <p>A modern healthcare platform providing trusted medical information, seamless appointment booking, and access to qualified doctors across specialties. It ensures patient-focused care, secure consultations, and easy navigation for a better healthcare experience.</p>
     
-       
+            </p>
+            </div>
         {/*  center */}
         <div>
             <p className='text-xl font-medium mb-5 '>COMPANY</p>
@@ -33,14 +33,14 @@ function Footer() {
         <p className='text-xl font-medium mb-5 '>GET IN TOUCH</p>
         <ul className='flex flex-col gap-2 text-gry-600'>
             <li >+0-000-000-000</li>
-            <li>greatstackdev@gmail.com</li>
+            <li>shubhamss1403@gmail.com</li>
         </ul>
     </div>
     </div>
     {/*  bottom */}
    <div>
     <hr></hr>
-    <p className='py-5 text-sm text-center'>Copyright 2024 @ Greatstack.dev - All Right Reserved.</p>
+    <p className='py-5 text-sm text-center'>© Shubham. All rights reserved | shubhamss1403@gmail.com</p>
    </div>
     </div>
   )

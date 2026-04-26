@@ -27,12 +27,12 @@ function Context() {
             <h2 className='text-2xl font-bold text-gray-800 mb-4'>OUR OFFICE</h2>
             <div className='space-y-3'>
               <p className='text-gray-600 leading-7'>
-                00000 Willms Station<br/>
-                Suite 000, Washington, USA
+                Block A, Near Central Market<br/>
+                New Delhi, Delhi – 110000
               </p>
               <p className='text-gray-600 leading-7'>
                 <strong>Tel:</strong> (000) 000-0000<br/>
-                <strong>Email:</strong> greatstackdev@gmail.com
+                <strong>Email:</strong> shubhamss1403@gmail.com
               </p>
             </div>
           </div>

@@ -29,7 +29,7 @@ function Navbar() {
           <hr className='border-none outline-none bg-primary w-3/5 m-auto h-0.5  hidden'></hr>
         </NavLink>
         <NavLink to='/doctors'>
-          <li className='py-1'>ALL Doctors</li>
+          <li className='py-1'>All Doctors</li>
           <hr className='border-none outline-none bg-primary w-3/5 m-auto h-0.5  hidden'></hr>
         </NavLink>
         <NavLink to='/contact'>
